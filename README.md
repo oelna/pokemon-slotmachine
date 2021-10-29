@@ -1,2 +1,2 @@
 # pokemon-slotmachine
-A basic Javascript slotmachine with Pokemon characters and a budget.
+A basic Javascript slotmachine with shiny Pokemon characters and a budget.
